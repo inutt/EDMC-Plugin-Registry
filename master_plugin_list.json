@@ -24,56 +24,138 @@
     "pluginIcon": "https://raw.githubusercontent.com/aussig/BGS-Tally/refs/heads/develop/assets/logo_bgstally_100x67.png",
     "pluginVT": "https://www.virustotal.com/gui/url/eaf0b89be98a16d0791da383da6fd12c4f585ff43b15cc84bb147350f3092b4a",
     "pluginHash": "339f8ca25efb76366075c821a0a9b9abf11ab68e73c355761378dbcecf2bdbbd",
-    "pluginStars": "50"
+    "pluginStars": "51"
+  },
+  {
+    "pluginName": "EDMC-BioScan",
+    "pluginVer": "2.12.2",
+    "pluginZip": "https://github.com/Silarn/EDMC-BioScan/releases/download/v2.12.2/EDMC-BioScan-2.12.2.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Silarn"
+    ],
+    "pluginMainLink": "https://github.com/Silarn/EDMC-BioScan",
+    "pluginLastUpdate": "2026-01-10",
+    "pluginDirName": "EDMC-BioScan",
+    "pluginCategory": [
+      "Exploration",
+      "Navigation",
+      "Utility"
+    ],
+    "pluginDesc": "Exobiology plugin for EDMC - Species deduction engine for biological signals and analysis aid.",
+    "pluginLastTestedEDMC": "6.1.0",
+    "pluginRequirements": [
+      "ExploData"
+    ],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
+    "pluginStars": "32"
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
-    "pluginVer": "0.5.4",
-    "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/0.5.3/EDMC-Mining-Analytics-0.5.3.zip",
+    "pluginVer": "0.6.0",
+    "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/0.6.0/EDMC-Mining-Analytics-0.6.0.zip",
     "autoUpdateEnabled": false,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "SweetJonnySauce"
     ],
     "pluginMainLink": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics",
-    "pluginLastUpdate": "2026-01-18",
+    "pluginLastUpdate": "2026-01-29",
     "pluginDirName": "EDMC-Mining-Analytics",
     "pluginCategory": [
       "Mining"
     ],
     "pluginDesc": "Track your Mining statistics and efficiency with EDMC-Mining-Analytics.",
-    "pluginLastTestedEDMC": "6.0.0",
+    "pluginLastTestedEDMC": "6.1.1",
     "pluginRequirements": [],
     "pluginLicense": "GPL-3.0-or-later",
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/997e178c8a0968346e37efb2bc29f9f73c308c247a595355b3279f3cc93b9924?nocache=1",
     "pluginHash": "",
-    "pluginStars": "16"
+    "pluginStars": "19"
+  },
+  {
+    "pluginName": "EDMC-NavRoute",
+    "pluginVer": "1.3.0",
+    "pluginZip": "https://github.com/Silarn/EDMC-NavRoute/releases/download/v1.3.0/EDMC-NavRoute-1.3.0.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Silarn"
+    ],
+    "pluginMainLink": "https://github.com/Silarn/EDMC-NavRoute",
+    "pluginLastUpdate": "2025-12-24",
+    "pluginDirName": "EDMC-NavRoute",
+    "pluginCategory": [
+      "Exploration",
+      "Utility"
+    ],
+    "pluginDesc": "Detailed, configurable display of nav route, distances, and star info.",
+    "pluginLastTestedEDMC": "6.1.0",
+    "pluginRequirements": [
+      "ExploData"
+    ],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "fe0843c4546c357150eb11846809869bd965a1af5e3e3112a17792b88d6197c7",
+    "pluginStars": "2"
   },
   {
     "pluginName": "EDMC-NeutronDancer",
-    "pluginVer": "1.6.0",
-    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.6.0/EDMC-NeutronDancer.zip",
+    "pluginVer": "1.6.2",
+    "pluginZip": "https://github.com/dwomble/EDMC-NeutronDancer/releases/download/v1.6.2/EDMC-NeutronDancer.zip",
     "autoUpdateEnabled": true,
     "autoInstallEnabled": false,
     "pluginAuthors": [
       "dwomble"
     ],
     "pluginMainLink": "https://github.com/dwomble/EDMC-NeutronDancer",
-    "pluginLastUpdate": "2026-01-03",
+    "pluginLastUpdate": "2026-01-21",
     "pluginDirName": "EDMC-NeutronDancer",
     "pluginCategory": [
       "Navigation",
       "Exploration"
     ],
     "pluginDesc": "Simplifies/automates Spansh Neutron (and other) routing.",
-    "pluginLastTestedEDMC": "6.0.2",
+    "pluginLastTestedEDMC": "6.1.0",
     "pluginRequirements": [],
     "pluginLicense": "MIT License",
     "pluginIcon": "",
-    "pluginVT": "https://www.virustotal.com/gui/file/d128bea0fa54957775f24a93155f0f80de8cb4723f1e8dbb216fe63474cbe485/details",
-    "pluginHash": "d128bea0fa54957775f24a93155f0f80de8cb4723f1e8dbb216fe63474cbe485",
-    "pluginStars": "5"
+    "pluginVT": "https://www.virustotal.com/gui/file/3d65a802b4db4a54d073006495335c7d4c9d171a2eb8b7b6313f7cb75815ec3c/details",
+    "pluginHash": "3d65a802b4db4a54d073006495335c7d4c9d171a2eb8b7b6313f7cb75815ec3c",
+    "pluginStars": "9"
+  },
+  {
+    "pluginName": "EDMC-Pioneer",
+    "pluginVer": "2.4.2",
+    "pluginZip": "https://github.com/Silarn/EDMC-Pioneer/releases/download/v2.4.2/EDMC-Pioneer-2.4.2.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Silarn"
+    ],
+    "pluginMainLink": "https://github.com/Silarn/EDMC-Pioneer",
+    "pluginLastUpdate": "2026-01-10",
+    "pluginDirName": "EDMC-Pioneer",
+    "pluginCategory": [
+      "Exploration",
+      "Utility"
+    ],
+    "pluginDesc": "Tracks system scan status, calculates values of system bodies, highlights high value targets, and body info.",
+    "pluginLastTestedEDMC": "6.1.0",
+    "pluginRequirements": [
+      "ExploData"
+    ],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
+    "pluginStars": "19"
   },
   {
     "pluginName": "EDMCModernOverlay",
@@ -102,7 +184,60 @@
     "pluginIcon": "https://raw.githubusercontent.com/SweetJonnySauce/EDMCModernOverlay/refs/heads/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.6/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "29"
+    "pluginStars": "33"
+  },
+  {
+    "pluginName": "GalaxyGPS",
+    "pluginVer": "1.5.0",
+    "pluginZip": "https://github.com/Fenris159/EDMC_GalaxyGPS/releases/download/1.5.0/EDMC_GalaxyGPS_150.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Fenris159"
+    ],
+    "pluginMainLink": "https://github.com/Fenris159/EDMC_GalaxyGPS",
+    "pluginLastUpdate": "2026-01-26",
+    "pluginDirName": "EDMC_GalaxyGPS",
+    "pluginCategory": [
+      "Navigation",
+      "Exploration",
+      "Utility"
+    ],
+    "pluginDesc": "Route planning and fleet carrier management. Import Spansh routes, track waypoints, manage carriers via CAPI, 20+ languages.",
+    "pluginLastTestedEDMC": "6.1.1",
+    "pluginRequirements": [],
+    "pluginLicense": "MIT",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "c1387039b7e86e2e325f8e67352cc350db1ea98dc1ce9f51cdd27a0d96175eb0",
+    "pluginStars": "4"
+  },
+  {
+    "pluginName": "ExploData",
+    "pluginVer": "1.5.1",
+    "pluginZip": "https://github.com/Silarn/EDMC-BioScan/releases/download/v2.12.2/ExploData-1.5.1-db-12.windows.exe.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "Silarn"
+    ],
+    "pluginMainLink": "https://github.com/Silarn/EDMC-ExploData",
+    "pluginLastUpdate": "2026-01-10",
+    "pluginDirName": "ExploData",
+    "pluginCategory": [
+      "Utility",
+      "Other"
+    ],
+    "pluginDesc": "Database backend for BioScan and Pioneer. Parses and stores journal data for persistency.",
+    "pluginLastTestedEDMC": "6.1.0",
+    "pluginRequirements": [
+      "SQLAlchemy"
+    ],
+    "pluginLicense": "GPL-2.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "c43a11a9b56e534c419c2e799ae503deb17021d33aa288677b2d47fcd7ddd002",
+    "pluginStars": "8"
   },
   {
     "pluginName": "LandingPad",
@@ -127,7 +262,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "41"
+    "pluginStars": "43"
   },
   {
     "pluginName": "UpdateTD",
