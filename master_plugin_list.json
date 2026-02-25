@@ -79,6 +79,32 @@
     "pluginStars": "31"
   },
   {
+    "pluginName": "EDMC-LogEventMiner",
+    "pluginVer": "1.5.0",
+    "pluginZip": "https://github.com/SweetJonnySauce/EDMC-LogEventMiner/releases/download/1.5.0/EDMC-LogEventMiner.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "SweetJonnySauce"
+    ],
+    "pluginMainLink": "https://github.com/SweetJonnySauce/EDMC-LogEventMiner",
+    "pluginLastUpdate": "2026-02-21",
+    "pluginDirName": "EDMC-LogEventMiner",
+    "pluginCategory": [
+      "Utility"
+    ],
+    "pluginDesc": "Log journal events to logfiles and overlay with powerful filtering capabilities. This plugin is not meant to enhance youre Elite Dangerous gameplay, rather is for those that are interesting in knowing more about the journal event whether it's for curiosity or developing your own plugin.",
+    "pluginLastTestedEDMC": "6.1.0",
+    "pluginRequirements": [
+      "EDMCModernOverlay for optional on-screen display"
+    ],
+    "pluginLicense": "GPL-3.0-or-later",
+    "pluginIcon": "",
+    "pluginVT": "https://www.virustotal.com/gui/url/a86d46dc81d50619493f3e2a246a0c3ba3aa676a55b3e6c03a873df317f6d3a1",
+    "pluginHash": "",
+    "pluginStars": "1"
+  },
+  {
     "pluginName": "EDMC-Mining-Analytics",
     "pluginVer": "0.6.0",
     "pluginZip": "https://github.com/SweetJonnySauce/EDMC-Mining-Analytics/releases/download/0.6.0/EDMC-Mining-Analytics-0.6.0.zip",
